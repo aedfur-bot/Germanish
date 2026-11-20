@@ -1,0 +1,2002 @@
+# Geschichten baseline: 2000 frequent German words, approximately frequency-ordered.
+# Columns: german<TAB>pos<TAB>spanish<TAB>english. Nouns carry their article. Rank = line order (comments excluded).
+der	art	el	the (m.)
+die	art	la, los, las	the (f./pl.)
+und	conj	y	and
+in	prep	en	in
+das	art	el, lo (neutro)	the (n.)
+sein	v	ser, estar	to be
+zu	prep	a, hacia	to
+ein	art	un, uno	a, one
+haben	v	tener; haber	to have
+ich	pron	yo	I
+werden	v	llegar a ser	to become; will
+sie	pron	ella; ellos	she; they
+von	prep	de, desde	from, of
+nicht	adv	no	not
+mit	prep	con	with
+es	pron	ello	it
+sich	pron	se	oneself
+auch	adv	también	also
+auf	prep	sobre, en	on
+für	prep	para, por	for
+an	prep	en, junto a	at, on
+er	pron	él	he
+so	adv	así, tan	so
+dass	conj	que	that
+können	v	poder	can
+dieser	det	este	this
+als	conj	que; cuando; como	than; when; as
+ihr	pron	vosotros; su	you (pl.); her
+wie	adv	cómo, como	how, like
+bei	prep	en casa de, junto a	at, near
+oder	conj	o	or
+wir	pron	nosotros	we
+aber	conj	pero	but
+dann	adv	entonces	then
+man	pron	se, uno	one, you
+da	adv	ahí, allí	there
+noch	adv	todavía	still, yet
+nach	prep	después de; a	after; to
+was	pron	qué	what
+also	adv	o sea, así que	so, therefore
+aus	prep	de, fuera de	from, out of
+all	det	todo	all
+wenn	conj	si, cuando	if, when
+nur	adv	solo	only
+müssen	v	tener que	must
+du	pron	tú	you
+ob	conj	si (indirecto)	whether
+um	prep	alrededor de; a las	around; at
+kein	det	ningún	no, not a
+mein	det	mi	my
+schon	adv	ya	already
+sollen	v	deber	should
+wollen	v	querer	to want
+sagen	v	decir	to say
+hier	adv	aquí	here
+durch	prep	por, a través de	through
+jetzt	adv	ahora	now
+sehr	adv	muy	very
+immer	adv	siempre	always
+ja	part	sí	yes
+machen	v	hacer	to make, do
+gehen	v	ir	to go
+geben	v	dar	to give
+kommen	v	venir	to come
+mehr	adv	más	more
+über	prep	sobre, encima de	over, about
+unter	prep	debajo de	under
+vor	prep	delante de; hace	before, in front of
+zwischen	prep	entre	between
+neben	prep	al lado de	next to
+hinter	prep	detrás de	behind
+gegen	prep	contra	against
+ohne	prep	sin	without
+seit	prep	desde	since
+wegen	prep	a causa de	because of
+während	prep	durante	during
+weil	conj	porque	because
+denn	conj	pues, porque	because, for
+wer	pron	quién	who
+wo	adv	dónde	where
+warum	adv	por qué	why
+wann	adv	cuándo	when
+welcher	det	cuál	which
+jeder	det	cada	every
+viel	adv	mucho	much
+wieder	adv	otra vez	again
+heute	adv	hoy	today
+dort	adv	allí	there
+etwas	pron	algo	something
+nichts	pron	nada	nothing
+einmal	adv	una vez	once
+ganz	adv	completamente, bastante	whole, quite
+bis	prep	hasta	until
+dürfen	v	poder (permiso)	may
+mögen	v	gustar	to like
+doch	part	¡sí!; sin embargo	yes (contradicting); after all
+nein	part	no	no
+sehen	v	ver	to see
+wissen	v	saber	to know (facts)
+lassen	v	dejar	to let, leave
+stehen	v	estar de pie	to stand
+finden	v	encontrar	to find
+bleiben	v	quedarse	to stay
+liegen	v	estar tumbado	to lie
+heißen	v	llamarse	to be called
+denken	v	pensar	to think
+nehmen	v	tomar, coger	to take
+tun	v	hacer	to do
+glauben	v	creer	to believe
+halten	v	sostener; parar	to hold; stop
+nennen	v	nombrar	to name
+zeigen	v	mostrar	to show
+führen	v	llevar, dirigir	to lead
+sprechen	v	hablar	to speak
+bringen	v	traer	to bring
+leben	v	vivir	to live
+fahren	v	ir (en vehículo), conducir	to drive, travel
+meinen	v	opinar	to mean, think
+fragen	v	preguntar	to ask
+kennen	v	conocer	to know (be familiar)
+gelten	v	valer, considerarse	to be valid
+stellen	v	poner (de pie)	to put (upright)
+spielen	v	jugar; tocar	to play
+arbeiten	v	trabajar	to work
+brauchen	v	necesitar	to need
+folgen	v	seguir	to follow
+lernen	v	aprender	to learn
+bestehen	v	existir; aprobar	to exist; pass
+verstehen	v	entender	to understand
+setzen	v	sentar, poner	to set, put
+bekommen	v	recibir	to get, receive
+beginnen	v	empezar	to begin
+erzählen	v	contar	to tell
+versuchen	v	intentar	to try
+schreiben	v	escribir	to write
+laufen	v	correr, andar	to run, walk
+erklären	v	explicar	to explain
+entsprechen	v	corresponder	to correspond
+sitzen	v	estar sentado	to sit
+ziehen	v	tirar; mudarse	to pull; move
+scheinen	v	parecer; brillar	to seem; shine
+fallen	v	caer	to fall
+gehören	v	pertenecer	to belong
+entstehen	v	surgir	to arise
+erhalten	v	recibir, conservar	to receive, keep
+treffen	v	encontrarse con	to meet
+suchen	v	buscar	to look for
+legen	v	poner (tumbado)	to lay, put
+vorstellen	v	presentar; imaginar	to introduce; imagine
+handeln	v	actuar; tratar de	to act; deal
+erreichen	v	alcanzar	to reach
+tragen	v	llevar	to carry, wear
+schaffen	v	lograr; crear	to manage; create
+lesen	v	leer	to read
+verlieren	v	perder	to lose
+darstellen	v	representar	to represent
+erkennen	v	reconocer	to recognize
+entwickeln	v	desarrollar	to develop
+reden	v	hablar	to talk
+aussehen	v	parecer (aspecto)	to look (like)
+erscheinen	v	aparecer	to appear
+bilden	v	formar	to form
+anfangen	v	empezar	to begin
+erwarten	v	esperar (expectativa)	to expect
+wohnen	v	vivir (residir)	to live, reside
+betreffen	v	afectar, concernir	to concern
+warten	v	esperar	to wait
+vergehen	v	pasar (tiempo)	to pass (time)
+helfen	v	ayudar	to help
+gewinnen	v	ganar	to win
+schließen	v	cerrar	to close
+fühlen	v	sentir	to feel
+bieten	v	ofrecer	to offer
+interessieren	v	interesar	to interest
+erinnern	v	recordar	to remind
+ergeben	v	resultar	to result
+anbieten	v	ofrecer	to offer
+studieren	v	estudiar (universidad)	to study
+verbinden	v	unir, conectar	to connect
+ansehen	v	mirar	to look at
+fehlen	v	faltar	to be missing
+bedeuten	v	significar	to mean
+vergleichen	v	comparar	to compare
+die Zeit	n	el tiempo	time
+das Jahr	n	el año	year
+der Mensch	n	el ser humano	person, human
+der Tag	n	el día	day
+das Mal	n	la vez	time (occasion)
+die Frau	n	la mujer; señora	woman; Mrs
+der Mann	n	el hombre	man
+das Kind	n	el niño	child
+die Hand	n	la mano	hand
+das Land	n	el país; el campo	country; countryside
+die Stadt	n	la ciudad	city
+das Haus	n	la casa	house
+der Teil	n	la parte	part
+die Welt	n	el mundo	world
+das Leben	n	la vida	life
+die Frage	n	la pregunta	question
+das Ende	n	el final	end
+die Arbeit	n	el trabajo	work
+das Problem	n	el problema	problem
+das Beispiel	n	el ejemplo	example
+das Wort	n	la palabra	word
+die Seite	n	el lado; la página	side; page
+der Fall	n	el caso	case
+die Art	n	el tipo, la manera	kind, way
+das Recht	n	el derecho	right; law
+die Familie	n	la familia	family
+die Woche	n	la semana	week
+das Auge	n	el ojo	eye
+der Grund	n	la razón	reason
+der Platz	n	la plaza; el sitio	place, square
+die Geschichte	n	la historia	story; history
+der Weg	n	el camino	way, path
+die Sache	n	la cosa, el asunto	thing, matter
+der Kopf	n	la cabeza	head
+das Unternehmen	n	la empresa	company
+die Gruppe	n	el grupo	group
+das System	n	el sistema	system
+der Freund	n	el amigo	friend
+das Geld	n	el dinero	money
+der Monat	n	el mes	month
+die Stunde	n	la hora	hour
+die Möglichkeit	n	la posibilidad	possibility
+die Schule	n	la escuela	school
+das Wasser	n	el agua	water
+die Zahl	n	el número	number
+der Vater	n	el padre	father
+die Mutter	n	la madre	mother
+der Abend	n	la tarde, la noche	evening
+die Nacht	n	la noche	night
+der Morgen	n	la mañana	morning
+die Straße	n	la calle	street
+das Ziel	n	el objetivo, la meta	goal
+der Raum	n	el espacio; la sala	room, space
+die Idee	n	la idea	idea
+die Liebe	n	el amor	love
+das Bild	n	la imagen, el cuadro	picture
+das Spiel	n	el juego; el partido	game; match
+die Sprache	n	el idioma, la lengua	language
+das Thema	n	el tema	topic
+der Name	n	el nombre	name
+die Tür	n	la puerta	door
+der Sohn	n	el hijo	son
+die Tochter	n	la hija	daughter
+die Eltern	n	los padres	parents
+der Bruder	n	el hermano	brother
+die Schwester	n	la hermana	sister
+das Buch	n	el libro	book
+das Auto	n	el coche	car
+der Bus	n	el autobús	bus
+der Zug	n	el tren	train
+die Polizei	n	la policía	police
+der Arzt	n	el médico	doctor
+die Firma	n	la empresa	company
+der Staat	n	el estado	state
+die Regierung	n	el gobierno	government
+die Politik	n	la política	politics
+die Partei	n	el partido	party (political)
+die Wirtschaft	n	la economía	economy
+der Markt	n	el mercado	market
+der Preis	n	el precio; el premio	price; prize
+die Entwicklung	n	el desarrollo	development
+die Gesellschaft	n	la sociedad	society
+die Information	n	la información	information
+das Ergebnis	n	el resultado	result
+die Kirche	n	la iglesia	church
+der Krieg	n	la guerra	war
+die Hilfe	n	la ayuda	help
+das Gesicht	n	la cara	face
+die Stimme	n	la voz	voice
+das Herz	n	el corazón	heart
+der Körper	n	el cuerpo	body
+das Zimmer	n	la habitación	room
+die Wohnung	n	el piso	apartment
+der Tisch	n	la mesa	table
+das Fenster	n	la ventana	window
+der Stuhl	n	la silla	chair
+das Bett	n	la cama	bed
+die Küche	n	la cocina	kitchen
+der Garten	n	el jardín	garden
+das Essen	n	la comida	food, meal
+das Brot	n	el pan	bread
+der Kaffee	n	el café	coffee
+das Bier	n	la cerveza	beer
+die Milch	n	la leche	milk
+der Tee	n	el té	tea
+die Minute	n	el minuto	minute
+die Sekunde	n	el segundo	second
+der Moment	n	el momento	moment
+die Antwort	n	la respuesta	answer
+der Anfang	n	el principio	beginning
+die Mitte	n	el medio	middle
+das Wetter	n	el tiempo (clima)	weather
+der Regen	n	la lluvia	rain
+die Sonne	n	el sol	sun
+der Schnee	n	la nieve	snow
+der Winter	n	el invierno	winter
+der Sommer	n	el verano	summer
+der Frühling	n	la primavera	spring
+der Herbst	n	el otoño	autumn
+gut	adj	bueno, bien	good
+groß	adj	grande	big
+neu	adj	nuevo	new
+erst	adj	primero	first
+lang	adj	largo	long
+deutsch	adj	alemán	German
+klein	adj	pequeño	small
+alt	adj	viejo	old
+hoch	adj	alto	high
+weit	adj	lejos, amplio	far, wide
+eigen	adj	propio	own
+letzt	adj	último	last
+richtig	adj	correcto	right, correct
+möglich	adj	posible	possible
+jung	adj	joven	young
+spät	adj	tarde	late
+früh	adj	temprano	early
+schnell	adj	rápido	fast
+schön	adj	bonito	beautiful, nice
+klar	adj	claro	clear
+wichtig	adj	importante	important
+einfach	adj	sencillo	simple
+gleich	adj	igual; enseguida	same; right away
+schwer	adj	pesado, difícil	heavy, difficult
+leicht	adj	ligero, fácil	light, easy
+genau	adj	exacto	exact
+bekannt	adj	conocido	well-known
+frei	adj	libre	free
+stark	adj	fuerte	strong
+voll	adj	lleno	full
+weiß	adj	blanco	white
+schwarz	adj	negro	black
+rot	adj	rojo	red
+grün	adj	verde	green
+blau	adj	azul	blue
+gelb	adj	amarillo	yellow
+grau	adj	gris	grey
+braun	adj	marrón	brown
+nah	adj	cercano	near
+kurz	adj	corto	short
+lieb	adj	querido	dear, kind
+schlecht	adj	malo	bad
+sicher	adj	seguro	safe, sure
+allein	adj	solo	alone
+bereit	adj	listo, dispuesto	ready
+besonders	adv	especialmente	especially
+wirklich	adv	realmente	really
+vielleicht	adv	quizás	maybe
+natürlich	adv	naturalmente, claro	of course
+gerade	adv	justo ahora	just, right now
+bereits	adv	ya	already
+fast	adv	casi	almost
+oft	adv	a menudo	often
+selten	adv	raramente	rarely
+manchmal	adv	a veces	sometimes
+gern	adv	con gusto	gladly
+eigentlich	adv	en realidad	actually
+zusammen	adv	juntos	together
+später	adv	más tarde	later
+bald	adv	pronto	soon
+sofort	adv	enseguida	immediately
+morgen	adv	mañana	tomorrow
+gestern	adv	ayer	yesterday
+damals	adv	entonces (pasado)	back then
+zurück	adv	de vuelta	back
+weiter	adv	más allá; seguir	further, on
+dabei	adv	en ello; al hacerlo	at the same time
+dafür	adv	por eso; a cambio	for it
+darauf	adv	sobre eso	on it
+davon	adv	de eso	of it
+dazu	adv	además; para eso	in addition
+damit	adv	con eso; para que	with it; so that
+darum	adv	por eso	therefore
+deshalb	adv	por eso	that's why
+trotzdem	adv	a pesar de todo	nevertheless
+sondern	conj	sino	but rather
+sowie	conj	así como	as well as
+sowohl	conj	tanto (… como)	both (… and)
+weder	conj	ni (… ni)	neither
+entweder	conj	o (… o)	either
+obwohl	conj	aunque	although
+bevor	conj	antes de que	before
+nachdem	conj	después de que	after
+seitdem	conj	desde que	since
+solange	conj	mientras	as long as
+sobald	conj	en cuanto	as soon as
+falls	conj	en caso de que	in case
+eins	num	uno	one
+zwei	num	dos	two
+drei	num	tres	three
+vier	num	cuatro	four
+fünf	num	cinco	five
+sechs	num	seis	six
+sieben	num	siete	seven
+acht	num	ocho	eight
+neun	num	nueve	nine
+zehn	num	diez	ten
+elf	num	once	eleven
+zwölf	num	doce	twelve
+zwanzig	num	veinte	twenty
+dreißig	num	treinta	thirty
+hundert	num	cien	hundred
+tausend	num	mil	thousand
+die Million	n	el millón	million
+halb	adj	medio	half
+das Prozent	n	el por ciento	percent
+der Euro	n	el euro	euro
+der Montag	n	el lunes	Monday
+der Dienstag	n	el martes	Tuesday
+der Mittwoch	n	el miércoles	Wednesday
+der Donnerstag	n	el jueves	Thursday
+der Freitag	n	el viernes	Friday
+der Samstag	n	el sábado	Saturday
+der Sonntag	n	el domingo	Sunday
+das Wochenende	n	el fin de semana	weekend
+der Januar	n	enero	January
+der Mai	n	mayo	May
+der Dezember	n	diciembre	December
+die Uhr	n	el reloj; la hora	clock; o'clock
+uns	pron	nos	us
+euch	pron	os	you (pl., obj.)
+mich	pron	me	me
+dich	pron	te	you (obj.)
+mir	pron	me, a mí	(to) me
+dir	pron	te, a ti	(to) you
+ihn	pron	lo, a él	him
+ihm	pron	le, a él	(to) him
+ihnen	pron	les, a ellos	(to) them
+dein	det	tu	your
+unser	det	nuestro	our
+euer	det	vuestro	your (pl.)
+Ihr	det	su (de usted)	your (formal)
+selbst	pron	mismo	self
+jemand	pron	alguien	someone
+niemand	pron	nadie	nobody
+einige	det	algunos	some
+mehrere	det	varios	several
+beide	det	ambos	both
+andere	adj	otro	other
+solcher	det	tal	such
+wenig	adj	poco	little, few
+genug	adv	suficiente	enough
+zuerst	adv	primero	first
+endlich	adv	por fin	finally
+schließlich	adv	finalmente	finally, after all
+plötzlich	adv	de repente	suddenly
+überhaupt	adv	en absoluto	at all
+sogar	adv	incluso	even
+etwa	adv	aproximadamente	about, roughly
+nämlich	adv	es que	namely
+kaum	adv	apenas	hardly
+übrigens	adv	por cierto	by the way
+außerdem	adv	además	besides
+zwar	adv	si bien	admittedly
+ziemlich	adv	bastante	rather, quite
+draußen	adv	fuera	outside
+drinnen	adv	dentro	inside
+oben	adv	arriba	above, upstairs
+unten	adv	abajo	below, downstairs
+links	adv	a la izquierda	left
+rechts	adv	a la derecha	right
+vorne	adv	delante	in front
+hinten	adv	detrás	at the back
+überall	adv	en todas partes	everywhere
+irgendwo	adv	en algún sitio	somewhere
+nirgends	adv	en ninguna parte	nowhere
+woher	adv	de dónde	where from
+wohin	adv	adónde	where to
+wieso	adv	por qué	why
+hallo	interj	hola	hello
+danke	interj	gracias	thanks
+bitte	interj	por favor; de nada	please; you're welcome
+tschüss	interj	adiós	bye
+essen	v	comer	to eat
+trinken	v	beber	to drink
+schlafen	v	dormir	to sleep
+kaufen	v	comprar	to buy
+verkaufen	v	vender	to sell
+bezahlen	v	pagar	to pay
+kosten	v	costar	to cost
+öffnen	v	abrir	to open
+hören	v	oír, escuchar	to hear, listen
+zuhören	v	escuchar	to listen
+antworten	v	responder	to answer
+rufen	v	llamar (gritar)	to call
+anrufen	v	llamar (teléfono)	to phone
+lachen	v	reír	to laugh
+weinen	v	llorar	to cry
+lieben	v	amar	to love
+hoffen	v	esperar (desear)	to hope
+wünschen	v	desear	to wish
+freuen	v	alegrar	to please (sich freuen: be glad)
+danken	v	agradecer	to thank
+gefallen	v	gustar	to please, be liked
+schmecken	v	saber (sabor)	to taste
+passen	v	quedar bien; encajar	to fit, suit
+passieren	v	pasar, ocurrir	to happen
+ändern	v	cambiar	to change
+wechseln	v	cambiar (intercambiar)	to change, switch
+kochen	v	cocinar	to cook
+waschen	v	lavar	to wash
+putzen	v	limpiar	to clean
+reisen	v	viajar	to travel
+fliegen	v	volar	to fly
+schwimmen	v	nadar	to swim
+tanzen	v	bailar	to dance
+singen	v	cantar	to sing
+malen	v	pintar	to paint
+zeichnen	v	dibujar	to draw
+rauchen	v	fumar	to smoke
+besuchen	v	visitar	to visit
+einladen	v	invitar	to invite
+feiern	v	celebrar	to celebrate
+gratulieren	v	felicitar	to congratulate
+schenken	v	regalar	to give (a gift)
+leihen	v	prestar	to lend, borrow
+mieten	v	alquilar	to rent
+drücken	v	empujar, apretar	to push, press
+werfen	v	lanzar	to throw
+fangen	v	atrapar	to catch
+schneiden	v	cortar	to cut
+bauen	v	construir	to build
+reparieren	v	reparar	to repair
+benutzen	v	usar	to use
+nutzen	v	aprovechar, usar	to use
+verwenden	v	utilizar	to use
+probieren	v	probar	to try
+testen	v	probar	to test
+prüfen	v	comprobar	to check
+kontrollieren	v	controlar	to check
+vergessen	v	olvidar	to forget
+merken	v	notar; recordar	to notice; remember
+bemerken	v	notar	to notice
+beobachten	v	observar	to observe
+entdecken	v	descubrir	to discover
+entscheiden	v	decidir	to decide
+wählen	v	elegir; votar	to choose; vote
+planen	v	planear	to plan
+organisieren	v	organizar	to organize
+vorbereiten	v	preparar	to prepare
+beenden	v	terminar	to end
+aufhören	v	dejar de	to stop
+aufstehen	v	levantarse	to get up
+einschlafen	v	dormirse	to fall asleep
+aufwachen	v	despertarse	to wake up
+anziehen	v	vestir, ponerse	to put on (clothes)
+ausziehen	v	quitarse; mudarse	to take off; move out
+umziehen	v	mudarse; cambiarse	to move house; change clothes
+einkaufen	v	hacer la compra	to shop
+mitnehmen	v	llevarse	to take along
+mitkommen	v	acompañar	to come along
+ankommen	v	llegar	to arrive
+abfahren	v	salir (vehículo)	to depart
+einsteigen	v	subir (al vehículo)	to get on
+aussteigen	v	bajar (del vehículo)	to get off
+umsteigen	v	hacer transbordo	to change (trains)
+zurückkommen	v	volver	to come back
+zurückgeben	v	devolver	to give back
+aufmachen	v	abrir	to open
+zumachen	v	cerrar	to close
+anmachen	v	encender	to turn on
+ausmachen	v	apagar; acordar	to turn off; arrange
+einschalten	v	encender	to switch on
+ausschalten	v	apagar	to switch off
+aufräumen	v	ordenar	to tidy up
+abholen	v	recoger	to pick up
+anschauen	v	mirar	to look at
+fernsehen	v	ver la tele	to watch TV
+kennenlernen	v	conocer (a alguien)	to get to know
+stattfinden	v	tener lugar	to take place
+teilnehmen	v	participar	to take part
+festlegen	v	fijar	to set, determine
+feststellen	v	constatar	to establish, find
+herstellen	v	fabricar	to produce
+aufnehmen	v	acoger; grabar	to take in; record
+annehmen	v	aceptar; suponer	to accept; assume
+abnehmen	v	adelgazar; disminuir	to lose weight; decrease
+zunehmen	v	aumentar; engordar	to increase; gain weight
+vorschlagen	v	proponer	to suggest
+empfehlen	v	recomendar	to recommend
+beschreiben	v	describir	to describe
+berichten	v	informar	to report
+diskutieren	v	discutir	to discuss
+streiten	v	discutir, pelear	to argue
+erlauben	v	permitir	to allow
+verbieten	v	prohibir	to forbid
+verlangen	v	exigir	to demand
+fordern	v	exigir	to demand
+bitten	v	pedir	to ask (for)
+bestellen	v	pedir (encargar)	to order
+schicken	v	enviar	to send
+senden	v	enviar	to send
+holen	v	ir a buscar	to fetch
+stecken	v	meter	to put in, stick
+hängen	v	colgar	to hang
+steigen	v	subir	to climb, rise
+sinken	v	bajar	to sink
+wachsen	v	crecer	to grow
+sterben	v	morir	to die
+töten	v	matar	to kill
+retten	v	salvar	to save, rescue
+schützen	v	proteger	to protect
+kämpfen	v	luchar	to fight
+siegen	v	vencer	to win
+verletzen	v	herir	to injure
+heiraten	v	casarse	to marry
+trennen	v	separar	to separate
+wiederholen	v	repetir	to repeat
+üben	v	practicar	to practise
+unterrichten	v	enseñar	to teach
+lehren	v	enseñar	to teach
+korrigieren	v	corregir	to correct
+übersetzen	v	traducir	to translate
+buchstabieren	v	deletrear	to spell
+zählen	v	contar	to count
+rechnen	v	calcular	to calculate
+messen	v	medir	to measure
+wiegen	v	pesar	to weigh
+sparen	v	ahorrar	to save (money)
+verdienen	v	ganar (dinero); merecer	to earn; deserve
+ausgeben	v	gastar	to spend
+leisten	v	rendir; permitirse	to achieve; afford
+gründen	v	fundar	to found
+leiten	v	dirigir	to lead, manage
+produzieren	v	producir	to produce
+liefern	v	entregar	to deliver
+fördern	v	fomentar	to promote
+unterstützen	v	apoyar	to support
+verändern	v	cambiar	to change
+verbessern	v	mejorar	to improve
+steigern	v	aumentar	to increase
+senken	v	bajar, reducir	to lower
+gelingen	v	salir bien	to succeed
+klappen	v	funcionar (col.)	to work out
+funktionieren	v	funcionar	to work, function
+dauern	v	durar	to last
+regnen	v	llover	to rain
+schneien	v	nevar	to snow
+riechen	v	oler	to smell
+berühren	v	tocar	to touch
+klingen	v	sonar	to sound
+sich setzen	v	sentarse	to sit down
+sich fühlen	v	sentirse	to feel
+sich freuen	v	alegrarse	to be glad
+sich interessieren	v	interesarse	to be interested
+sich erinnern	v	acordarse	to remember
+sich beeilen	v	darse prisa	to hurry
+sich ärgern	v	enfadarse	to be annoyed
+sich entschuldigen	v	disculparse	to apologize
+sich kümmern	v	ocuparse	to take care
+sich verabreden	v	quedar	to make a date
+sich vorstellen	v	imaginarse; presentarse	to imagine; introduce oneself
+sich treffen	v	quedar, verse	to meet
+sich unterhalten	v	conversar	to converse
+sich gewöhnen	v	acostumbrarse	to get used to
+sich bewerben	v	solicitar (empleo)	to apply
+sich ausruhen	v	descansar	to rest
+sich beschweren	v	quejarse	to complain
+sich wundern	v	sorprenderse	to be surprised
+sich verlieben	v	enamorarse	to fall in love
+sich langweilen	v	aburrirse	to be bored
+der Junge	n	el chico	boy
+das Mädchen	n	la chica	girl
+der Herr	n	el señor	gentleman; Mr
+die Leute	n	la gente	people
+die Person	n	la persona	person
+der Kollege	n	el colega	colleague
+der Nachbar	n	el vecino	neighbour
+der Gast	n	el invitado	guest
+der Chef	n	el jefe	boss
+der Lehrer	n	el profesor	teacher
+der Schüler	n	el alumno	pupil
+der Student	n	el estudiante	student
+der Kunde	n	el cliente	customer
+der Mitarbeiter	n	el empleado	employee
+der Partner	n	la pareja; el socio	partner
+der Großvater	n	el abuelo	grandfather
+die Großmutter	n	la abuela	grandmother
+der Onkel	n	el tío	uncle
+die Tante	n	la tía	aunt
+das Baby	n	el bebé	baby
+die Ehe	n	el matrimonio	marriage
+die Hochzeit	n	la boda	wedding
+der Geburtstag	n	el cumpleaños	birthday
+das Fest	n	la fiesta	festival, party
+die Party	n	la fiesta	party
+das Geschenk	n	el regalo	present
+der Urlaub	n	las vacaciones	holiday
+die Ferien	n	las vacaciones (escolares)	holidays
+die Reise	n	el viaje	trip
+das Hotel	n	el hotel	hotel
+der Bahnhof	n	la estación	station
+der Flughafen	n	el aeropuerto	airport
+das Flugzeug	n	el avión	plane
+das Fahrrad	n	la bicicleta	bicycle
+die U-Bahn	n	el metro	underground
+die Straßenbahn	n	el tranvía	tram
+das Taxi	n	el taxi	taxi
+die Fahrkarte	n	el billete	ticket
+das Ticket	n	el billete, la entrada	ticket
+die Haltestelle	n	la parada	stop
+die Ecke	n	la esquina	corner
+die Kreuzung	n	el cruce	crossroads
+die Brücke	n	el puente	bridge
+der Park	n	el parque	park
+der Wald	n	el bosque	forest
+der Baum	n	el árbol	tree
+die Blume	n	la flor	flower
+der Berg	n	la montaña	mountain
+der See	n	el lago	lake
+das Meer	n	el mar	sea
+der Fluss	n	el río	river
+der Strand	n	la playa	beach
+die Insel	n	la isla	island
+das Dorf	n	el pueblo	village
+die Gegend	n	la zona	area
+die Region	n	la región	region
+das Gebiet	n	el área	area, territory
+die Grenze	n	la frontera; el límite	border; limit
+der Himmel	n	el cielo	sky; heaven
+die Erde	n	la tierra	earth
+die Luft	n	el aire	air
+das Feuer	n	el fuego	fire
+der Wind	n	el viento	wind
+das Licht	n	la luz	light
+die Farbe	n	el color	colour
+das Tier	n	el animal	animal
+der Hund	n	el perro	dog
+die Katze	n	el gato	cat
+das Pferd	n	el caballo	horse
+der Vogel	n	el pájaro	bird
+der Fisch	n	el pez; el pescado	fish
+das Fleisch	n	la carne	meat
+das Gemüse	n	la verdura	vegetables
+das Obst	n	la fruta	fruit
+der Apfel	n	la manzana	apple
+die Kartoffel	n	la patata	potato
+der Käse	n	el queso	cheese
+die Wurst	n	la salchicha	sausage
+das Ei	n	el huevo	egg
+der Zucker	n	el azúcar	sugar
+das Salz	n	la sal	salt
+der Wein	n	el vino	wine
+der Saft	n	el zumo	juice
+das Getränk	n	la bebida	drink
+das Frühstück	n	el desayuno	breakfast
+das Mittagessen	n	la comida	lunch
+das Abendessen	n	la cena	dinner
+der Kuchen	n	el pastel	cake
+das Restaurant	n	el restaurante	restaurant
+das Café	n	la cafetería	café
+die Kneipe	n	el bar	pub
+die Rechnung	n	la cuenta; la factura	bill
+das Glas	n	el vaso; el cristal	glass
+die Tasse	n	la taza	cup
+der Teller	n	el plato	plate
+das Messer	n	el cuchillo	knife
+die Gabel	n	el tenedor	fork
+der Löffel	n	la cuchara	spoon
+die Flasche	n	la botella	bottle
+der Laden	n	la tienda	shop
+das Geschäft	n	la tienda; el negocio	shop; business
+der Supermarkt	n	el supermercado	supermarket
+die Kleidung	n	la ropa	clothes
+die Hose	n	el pantalón	trousers
+das Hemd	n	la camisa	shirt
+der Schuh	n	el zapato	shoe
+die Jacke	n	la chaqueta	jacket
+der Mantel	n	el abrigo	coat
+das Kleid	n	el vestido	dress
+die Tasche	n	el bolso; el bolsillo	bag; pocket
+der Schlüssel	n	la llave	key
+das Handy	n	el móvil	mobile phone
+das Telefon	n	el teléfono	telephone
+der Computer	n	el ordenador	computer
+das Internet	n	internet	internet
+die E-Mail	n	el correo electrónico	email
+der Brief	n	la carta	letter
+die Nachricht	n	el mensaje; la noticia	message; news
+die Zeitung	n	el periódico	newspaper
+der Film	n	la película	film
+die Musik	n	la música	music
+das Lied	n	la canción	song
+der Sport	n	el deporte	sport
+der Fußball	n	el fútbol	football
+die Mannschaft	n	el equipo	team
+das Kino	n	el cine	cinema
+das Theater	n	el teatro	theatre
+das Museum	n	el museo	museum
+die Kunst	n	el arte	art
+die Kultur	n	la cultura	culture
+die Ausstellung	n	la exposición	exhibition
+das Konzert	n	el concierto	concert
+die Universität	n	la universidad	university
+das Studium	n	los estudios	studies
+der Kurs	n	el curso	course
+die Prüfung	n	el examen	exam
+die Note	n	la nota	grade
+die Klasse	n	la clase	class
+die Aufgabe	n	la tarea	task
+die Hausaufgabe	n	los deberes	homework
+die Übung	n	el ejercicio	exercise
+die Lösung	n	la solución	solution
+der Fehler	n	el error	mistake
+die Regel	n	la regla	rule
+der Satz	n	la frase	sentence
+der Text	n	el texto	text
+der Beruf	n	la profesión	profession
+die Stelle	n	el puesto; el lugar	position; place
+das Büro	n	la oficina	office
+die Besprechung	n	la reunión	meeting
+der Termin	n	la cita	appointment
+das Gespräch	n	la conversación	conversation
+die Erfahrung	n	la experiencia	experience
+der Erfolg	n	el éxito	success
+das Projekt	n	el proyecto	project
+der Plan	n	el plan	plan
+die Zukunft	n	el futuro	future
+die Vergangenheit	n	el pasado	past
+die Gegenwart	n	el presente	present
+der Augenblick	n	el instante	moment
+das Datum	n	la fecha	date
+der Zeitpunkt	n	el momento (punto)	point in time
+die Pause	n	la pausa	break
+der Feierabend	n	el fin de la jornada	end of the working day
+das Krankenhaus	n	el hospital	hospital
+die Apotheke	n	la farmacia	pharmacy
+die Krankheit	n	la enfermedad	illness
+die Gesundheit	n	la salud	health
+der Schmerz	n	el dolor	pain
+das Medikament	n	el medicamento	medicine
+der Bauch	n	la barriga	belly
+der Rücken	n	la espalda	back
+das Bein	n	la pierna	leg
+der Arm	n	el brazo	arm
+der Fuß	n	el pie	foot
+der Finger	n	el dedo	finger
+das Haar	n	el pelo	hair
+der Mund	n	la boca	mouth
+die Nase	n	la nariz	nose
+das Ohr	n	la oreja	ear
+der Zahn	n	el diente	tooth
+die Haut	n	la piel	skin
+das Blut	n	la sangre	blood
+der Hals	n	el cuello; la garganta	neck; throat
+die Angst	n	el miedo	fear
+die Freude	n	la alegría	joy
+das Glück	n	la suerte; la felicidad	luck; happiness
+der Spaß	n	la diversión	fun
+die Lust	n	las ganas	desire
+das Gefühl	n	el sentimiento	feeling
+die Hoffnung	n	la esperanza	hope
+der Traum	n	el sueño	dream
+die Sorge	n	la preocupación	worry
+der Ärger	n	el enfado; los problemas	annoyance; trouble
+der Hunger	n	el hambre	hunger
+der Durst	n	la sed	thirst
+die Ruhe	n	la tranquilidad	calm, quiet
+der Lärm	n	el ruido	noise
+die Meinung	n	la opinión	opinion
+der Gedanke	n	el pensamiento	thought
+die Erinnerung	n	el recuerdo	memory
+die Wahrheit	n	la verdad	truth
+die Lüge	n	la mentira	lie
+das Geheimnis	n	el secreto	secret
+der Sinn	n	el sentido	sense, meaning
+die Bedeutung	n	el significado	meaning
+die Erklärung	n	la explicación	explanation
+die Ursache	n	la causa	cause
+die Folge	n	la consecuencia	consequence
+die Wirkung	n	el efecto	effect
+die Rolle	n	el papel	role
+die Form	n	la forma	form, shape
+die Größe	n	el tamaño; la talla	size
+die Menge	n	la cantidad	amount
+die Hälfte	n	la mitad	half
+das Stück	n	el trozo; la obra	piece; play
+der Rest	n	el resto	rest
+die Summe	n	la suma	sum
+die Nummer	n	el número	number
+die Liste	n	la lista	list
+die Karte	n	la tarjeta; el mapa	card; map
+das Papier	n	el papel	paper
+der Stift	n	el bolígrafo, el lápiz	pen, pencil
+das Ding	n	la cosa	thing
+der Gegenstand	n	el objeto	object
+das Material	n	el material	material
+das Holz	n	la madera	wood
+das Metall	n	el metal	metal
+der Stein	n	la piedra	stone
+die Wand	n	la pared	wall
+der Boden	n	el suelo	floor, ground
+die Decke	n	el techo; la manta	ceiling; blanket
+das Dach	n	el tejado	roof
+die Treppe	n	la escalera	stairs
+der Stock	n	la planta, el piso	floor (storey)
+der Eingang	n	la entrada	entrance
+der Ausgang	n	la salida	exit
+der Schrank	n	el armario	cupboard
+das Sofa	n	el sofá	sofa
+die Lampe	n	la lámpara	lamp
+der Spiegel	n	el espejo	mirror
+das Bad	n	el baño	bathroom; bath
+die Toilette	n	el aseo	toilet
+die Dusche	n	la ducha	shower
+der Kühlschrank	n	la nevera	fridge
+die Heizung	n	la calefacción	heating
+die Miete	n	el alquiler	rent
+der Vermieter	n	el casero	landlord
+die Adresse	n	la dirección	address
+die Post	n	el correo	post
+das Paket	n	el paquete	parcel
+die Bank	n	el banco	bank; bench
+das Konto	n	la cuenta	account
+die Kasse	n	la caja	till
+der Ausweis	n	el carné	ID card
+der Pass	n	el pasaporte	passport
+das Amt	n	la oficina (pública)	office (authority)
+die Behörde	n	la autoridad	authority
+das Formular	n	el formulario	form
+der Antrag	n	la solicitud	application
+der Vertrag	n	el contrato	contract
+das Gesetz	n	la ley	law
+das Gericht	n	el tribunal; el plato	court; dish
+die Strafe	n	el castigo; la multa	punishment; fine
+die Sicherheit	n	la seguridad	security
+die Gefahr	n	el peligro	danger
+der Unfall	n	el accidente	accident
+der Notfall	n	la emergencia	emergency
+die Feuerwehr	n	los bomberos	fire brigade
+der Verkehr	n	el tráfico	traffic
+der Stau	n	el atasco	traffic jam
+die Ampel	n	el semáforo	traffic light
+die Autobahn	n	la autopista	motorway
+die Richtung	n	la dirección	direction
+die Nähe	n	la cercanía	vicinity
+die Entfernung	n	la distancia	distance
+der Kilometer	n	el kilómetro	kilometre
+der Meter	n	el metro	metre
+das Kilo	n	el kilo	kilo
+der Liter	n	el litro	litre
+das Zentrum	n	el centro	centre
+Deutschland	n	Alemania	Germany
+Österreich	n	Austria	Austria
+die Schweiz	n	Suiza	Switzerland
+Europa	n	Europa	Europe
+Spanien	n	España	Spain
+das Ausland	n	el extranjero	abroad
+der Ausländer	n	el extranjero	foreigner
+die Heimat	n	la patria, el hogar	homeland
+das Volk	n	el pueblo	people, nation
+die Bevölkerung	n	la población	population
+der Bürger	n	el ciudadano	citizen
+die Hauptstadt	n	la capital	capital
+die Gemeinde	n	el municipio	municipality
+das Rathaus	n	el ayuntamiento	town hall
+der Bürgermeister	n	el alcalde	mayor
+der Präsident	n	el presidente	president
+der Minister	n	el ministro	minister
+der Kanzler	n	el canciller	chancellor
+die Wahl	n	la elección	election; choice
+die Macht	n	el poder	power
+die Kraft	n	la fuerza	strength
+die Freiheit	n	la libertad	freedom
+der Frieden	n	la paz	peace
+die Armee	n	el ejército	army
+der Soldat	n	el soldado	soldier
+die Waffe	n	el arma	weapon
+der Kampf	n	la lucha	fight
+der Sieg	n	la victoria	victory
+die Gewalt	n	la violencia	violence
+die Umwelt	n	el medio ambiente	environment
+die Natur	n	la naturaleza	nature
+das Klima	n	el clima	climate
+die Energie	n	la energía	energy
+der Strom	n	la electricidad; la corriente	electricity; current
+die Industrie	n	la industria	industry
+die Technik	n	la técnica	technology
+die Wissenschaft	n	la ciencia	science
+die Forschung	n	la investigación	research
+die Studie	n	el estudio	study
+die Daten	n	los datos	data
+die Methode	n	el método	method
+die Theorie	n	la teoría	theory
+die Praxis	n	la práctica; la consulta	practice; doctor's office
+die Qualität	n	la calidad	quality
+der Wert	n	el valor	value
+die Kosten	n	los costes	costs
+der Lohn	n	el salario	wage
+das Gehalt	n	el sueldo	salary
+die Steuer	n	el impuesto	tax
+die Versicherung	n	el seguro	insurance
+das Angebot	n	la oferta	offer
+die Nachfrage	n	la demanda	demand
+der Handel	n	el comercio	trade
+die Ware	n	la mercancía	goods
+das Produkt	n	el producto	product
+die Leistung	n	el rendimiento	performance
+der Betrieb	n	la empresa; el funcionamiento	business; operation
+die Abteilung	n	el departamento	department
+die Leitung	n	la dirección; la línea	management; line
+die Organisation	n	la organización	organization
+der Verein	n	la asociación, el club	club, association
+das Mitglied	n	el miembro	member
+das Team	n	el equipo	team
+die Verbindung	n	la conexión	connection
+die Beziehung	n	la relación	relationship
+der Kontakt	n	el contacto	contact
+der Rat	n	el consejo	advice
+der Vorschlag	n	la propuesta	suggestion
+die Entscheidung	n	la decisión	decision
+die Bitte	n	el ruego, la petición	request
+der Wunsch	n	el deseo	wish
+das Interesse	n	el interés	interest
+die Absicht	n	la intención	intention
+die Aufmerksamkeit	n	la atención	attention
+die Bedingung	n	la condición	condition
+die Situation	n	la situación	situation
+die Lage	n	la situación; la ubicación	situation; location
+der Zustand	n	el estado	condition, state
+die Veränderung	n	el cambio	change
+der Wechsel	n	el cambio	change, switch
+der Schritt	n	el paso	step
+die Stufe	n	el nivel; el escalón	level; step
+das Niveau	n	el nivel	level
+der Punkt	n	el punto	point
+die Linie	n	la línea	line
+der Kreis	n	el círculo	circle
+die Ebene	n	el nivel; la llanura	level; plain
+die Reihe	n	la fila; la serie	row; series
+die Ordnung	n	el orden	order
+das Zeichen	n	la señal	sign
+die Sendung	n	el programa; el envío	broadcast; shipment
+das Programm	n	el programa	programme
+der Bericht	n	el informe	report
+der Artikel	n	el artículo	article
+die Zeitschrift	n	la revista	magazine
+die Werbung	n	la publicidad	advertising
+das Fernsehen	n	la televisión	television
+das Radio	n	la radio	radio
+die Medien	n	los medios	media
+der Roman	n	la novela	novel
+das Gedicht	n	el poema	poem
+der Autor	n	el autor	author
+die Bibliothek	n	la biblioteca	library
+die Wissenschaftlerin	n	la científica	scientist (f.)
+der Künstler	n	el artista	artist
+der Schauspieler	n	el actor	actor
+der Sänger	n	el cantante	singer
+der Spieler	n	el jugador	player
+der Trainer	n	el entrenador	coach
+der Fan	n	el aficionado	fan
+das Tor	n	el gol; la portería	goal
+der Ball	n	el balón	ball
+das Rad	n	la rueda; la bici	wheel; bike
+der Wagen	n	el coche; el vagón	car; carriage
+der Fahrer	n	el conductor	driver
+die Fahrt	n	el viaje (trayecto)	journey, ride
+der Flug	n	el vuelo	flight
+die Ankunft	n	la llegada	arrival
+die Abfahrt	n	la salida	departure
+der Koffer	n	la maleta	suitcase
+das Gepäck	n	el equipaje	luggage
+der Tourist	n	el turista	tourist
+die Sehenswürdigkeit	n	la atracción turística	sight
+der Blick	n	la mirada; la vista	look; view
+die Aussicht	n	la vista; la perspectiva	view; prospect
+das Foto	n	la foto	photo
+die Kamera	n	la cámara	camera
+der Schatten	n	la sombra	shadow
+die Wärme	n	el calor	warmth
+die Kälte	n	el frío	cold
+die Temperatur	n	la temperatura	temperature
+das Grad	n	el grado	degree
+die Wolke	n	la nube	cloud
+das Gewitter	n	la tormenta	thunderstorm
+der Sturm	n	la tormenta (viento)	storm
+das Eis	n	el hielo; el helado	ice; ice cream
+warm	adj	cálido	warm
+kalt	adj	frío	cold
+heiß	adj	caliente	hot
+kühl	adj	fresco	cool
+nass	adj	mojado	wet
+trocken	adj	seco	dry
+hell	adj	claro, luminoso	bright
+dunkel	adj	oscuro	dark
+laut	adj	ruidoso, alto	loud
+leise	adj	silencioso, bajo	quiet
+ruhig	adj	tranquilo	calm
+langsam	adj	lento	slow
+müde	adj	cansado	tired
+krank	adj	enfermo	ill
+gesund	adj	sano	healthy
+glücklich	adj	feliz	happy
+traurig	adj	triste	sad
+froh	adj	contento	glad
+zufrieden	adj	satisfecho	satisfied
+böse	adj	malo; enfadado	evil; angry
+wütend	adj	furioso	furious
+nervös	adj	nervioso	nervous
+fertig	adj	listo, terminado	finished, ready
+satt	adj	lleno (comida)	full (food)
+hungrig	adj	hambriento	hungry
+durstig	adj	sediento	thirsty
+billig	adj	barato	cheap
+teuer	adj	caro	expensive
+arm	adj	pobre	poor
+reich	adj	rico	rich
+dick	adj	gordo, grueso	thick, fat
+dünn	adj	delgado, fino	thin
+breit	adj	ancho	wide
+eng	adj	estrecho	narrow, tight
+tief	adj	profundo	deep
+niedrig	adj	bajo	low
+flach	adj	plano	flat
+rund	adj	redondo	round
+falsch	adj	falso, incorrecto	wrong
+wahr	adj	verdadero	true
+echt	adj	auténtico	real, genuine
+sauber	adj	limpio	clean
+schmutzig	adj	sucio	dirty
+leer	adj	vacío	empty
+offen	adj	abierto	open
+geschlossen	adj	cerrado	closed
+kaputt	adj	roto	broken
+fremd	adj	extraño, ajeno	foreign, strange
+berühmt	adj	famoso	famous
+beliebt	adj	popular	popular
+interessant	adj	interesante	interesting
+langweilig	adj	aburrido	boring
+lustig	adj	divertido	funny
+toll	adj	genial	great
+super	adj	estupendo	super
+prima	adj	estupendo	great
+schrecklich	adj	terrible	terrible
+furchtbar	adj	horrible	awful
+wunderbar	adj	maravilloso	wonderful
+herrlich	adj	magnífico	splendid
+nett	adj	amable	nice
+freundlich	adj	amable	friendly
+höflich	adj	educado	polite
+ehrlich	adj	sincero	honest
+klug	adj	listo	clever
+dumm	adj	tonto	stupid
+fleißig	adj	trabajador	hard-working
+faul	adj	perezoso	lazy
+mutig	adj	valiente	brave
+stolz	adj	orgulloso	proud
+ähnlich	adj	parecido	similar
+anders	adv	de otra manera	differently
+verschieden	adj	diferente	different
+gemeinsam	adj	común, juntos	common, together
+allgemein	adj	general	general
+öffentlich	adj	público	public
+privat	adj	privado	private
+persönlich	adj	personal	personal
+politisch	adj	político	political
+wirtschaftlich	adj	económico	economic
+sozial	adj	social	social
+international	adj	internacional	international
+national	adj	nacional	national
+europäisch	adj	europeo	European
+amerikanisch	adj	americano	American
+spanisch	adj	español	Spanish
+englisch	adj	inglés	English
+ausländisch	adj	extranjero	foreign
+modern	adj	moderno	modern
+aktuell	adj	actual	current
+heutig	adj	de hoy	today's
+damalig	adj	de entonces	of that time
+zukünftig	adj	futuro	future
+bisherig	adj	anterior, hasta ahora	previous
+weiterer	adj	adicional	further
+einzeln	adj	individual	individual
+einzig	adj	único	only, single
+gesamt	adj	total	total
+total	adj	total	total
+direkt	adj	directo	direct
+deutlich	adj	claro	clear
+nötig	adj	necesario	necessary
+notwendig	adj	necesario	necessary
+unmöglich	adj	imposible	impossible
+wahrscheinlich	adv	probablemente	probably
+sicherlich	adv	seguramente	certainly
+leider	adv	lamentablemente	unfortunately
+hoffentlich	adv	ojalá	hopefully
+zumindest	adv	al menos	at least
+mindestens	adv	como mínimo	at least
+höchstens	adv	como máximo	at most
+ungefähr	adv	más o menos	approximately
+genauso	adv	igual	just as
+ebenso	adv	igualmente	likewise
+jedoch	adv	sin embargo	however
+allerdings	adv	sin embargo; desde luego	however; certainly
+dagegen	adv	en cambio; en contra	in contrast; against it
+stattdessen	adv	en su lugar	instead
+sonst	adv	si no; aparte	otherwise; else
+nun	adv	ahora; pues	now; well
+inzwischen	adv	mientras tanto	meanwhile
+danach	adv	después	afterwards
+vorher	adv	antes	before(hand)
+zunächst	adv	primero	first, initially
+erstmal	adv	de momento, primero	first of all
+nie	adv	nunca	never
+niemals	adv	jamás	never
+jemals	adv	alguna vez	ever
+meistens	adv	casi siempre	mostly
+häufig	adj	frecuente	frequent
+regelmäßig	adj	regular	regular
+täglich	adj	diario	daily
+wöchentlich	adj	semanal	weekly
+jährlich	adj	anual	annual
+nachts	adv	por la noche	at night
+morgens	adv	por la mañana	in the morning
+abends	adv	por la tarde/noche	in the evening
+mittags	adv	al mediodía	at midday
+früher	adv	antes	earlier, formerly
+neulich	adv	el otro día	recently
+kürzlich	adv	recientemente	recently
+lange	adv	mucho tiempo	for a long time
+noch einmal	adv	otra vez	once more
+schon wieder	adv	otra vez (ya)	yet again
+irgendwie	adv	de algún modo	somehow
+irgendwann	adv	algún día	sometime
+irgendwas	pron	algo	something
+jeweils	adv	respectivamente	each time
+ebenfalls	adv	igualmente	also, likewise
+gleichzeitig	adv	al mismo tiempo	at the same time
+sowieso	adv	de todas formas	anyway
+eben	adv	justo; precisamente	just; exactly
+halt	part	pues (resignación)	just (resigned)
+mal	part	(partícula suavizadora)	(softening particle)
+wohl	adv	probablemente; bien	probably; well
+bloß	adv	solo	only, merely
+gar	adv	en absoluto	at all
+recht	adv	bastante; razón	quite; right
+völlig	adv	completamente	completely
+hin	adv	hacia allá	there (away)
+her	adv	hacia acá	here (towards)
+hinein	adv	hacia dentro	in(to)
+heraus	adv	hacia fuera	out
+herum	adv	alrededor	around
+vorbei	adv	pasado; por delante	over; past
+los	adv	suelto; ¡vamos!	loose; go!
+weg	adv	fuera, ido	away, gone
+daher	adv	por eso	hence
+dahin	adv	hacia allí	there
+darüber	adv	sobre eso	about it
+darunter	adv	debajo; entre ellos	under it; among them
+daneben	adv	al lado	next to it
+dadurch	adv	por eso; a través de eso	thereby
+dahinter	adv	detrás	behind it
+woran	adv	en qué	of what
+worauf	adv	en qué; a qué	on what
+wofür	adv	para qué	for what
+womit	adv	con qué	with what
+worüber	adv	sobre qué	about what
+wovon	adv	de qué	of what
+erleben	v	vivir (experimentar)	to experience
+aufpassen	v	prestar atención	to pay attention
+bedienen	v	atender	to serve
+behalten	v	quedarse con	to keep
+behaupten	v	afirmar	to claim
+bekannt geben	v	anunciar	to announce
+belegen	v	demostrar; ocupar	to prove; occupy
+beraten	v	asesorar	to advise
+berücksichtigen	v	tener en cuenta	to take into account
+beschäftigen	v	ocupar	to occupy, employ
+beschließen	v	decidir	to decide
+besitzen	v	poseer	to own
+besprechen	v	hablar de	to discuss
+bestätigen	v	confirmar	to confirm
+bestimmen	v	determinar	to determine
+beteiligen	v	hacer participar	to involve
+betrachten	v	considerar	to regard
+bewegen	v	mover	to move
+beweisen	v	demostrar	to prove
+bewerten	v	evaluar	to assess
+bezeichnen	v	denominar	to call, designate
+beziehen	v	referirse; recibir	to refer; obtain
+blicken	v	mirar	to look
+brennen	v	arder	to burn
+decken	v	cubrir	to cover
+dienen	v	servir	to serve
+drehen	v	girar	to turn
+eignen	v	ser apropiado	to be suitable
+einführen	v	introducir	to introduce
+eingehen	v	entrar; abordar	to enter; address
+einsetzen	v	emplear	to use, deploy
+einstellen	v	contratar; ajustar	to hire; adjust
+eintreten	v	entrar	to enter
+empfinden	v	sentir	to feel
+enden	v	terminar	to end
+entfernen	v	quitar	to remove
+enthalten	v	contener	to contain
+entlassen	v	despedir	to dismiss
+erfahren	v	enterarse	to find out
+erfinden	v	inventar	to invent
+erfüllen	v	cumplir	to fulfil
+ergänzen	v	completar	to supplement
+erheben	v	levantar; cobrar	to raise
+ermöglichen	v	posibilitar	to enable
+ernähren	v	alimentar	to feed
+eröffnen	v	inaugurar	to open
+erregen	v	provocar	to arouse
+ersetzen	v	sustituir	to replace
+erstellen	v	elaborar	to create
+erweitern	v	ampliar	to expand
+erzeugen	v	generar	to generate
+erziehen	v	educar	to bring up
+fassen	v	agarrar; comprender	to grasp
+festhalten	v	sujetar	to hold on
+finanzieren	v	financiar	to finance
+fliehen	v	huir	to flee
+fließen	v	fluir	to flow
+fortsetzen	v	continuar	to continue
+gebrauchen	v	usar	to use
+gefährden	v	poner en peligro	to endanger
+gestalten	v	diseñar	to shape, design
+gewöhnen	v	acostumbrar	to accustom
+greifen	v	agarrar	to grab
+herrschen	v	reinar	to rule, prevail
+hinweisen	v	indicar	to point out
+informieren	v	informar	to inform
+investieren	v	invertir	to invest
+klären	v	aclarar	to clarify
+kriegen	v	recibir (col.)	to get
+landen	v	aterrizar	to land
+leiden	v	sufrir	to suffer
+melden	v	avisar	to report
+nachdenken	v	reflexionar	to think about
+nähern	v	acercar	to approach
+pflegen	v	cuidar	to care for
+reagieren	v	reaccionar	to react
+reichen	v	bastar; alcanzar	to be enough; hand
+schauen	v	mirar	to look
+schieben	v	empujar	to push
+schlagen	v	golpear	to hit
+schweigen	v	callar	to be silent
+sorgen	v	ocuparse; preocuparse	to look after; worry
+spüren	v	notar	to sense
+starten	v	arrancar	to start
+stammen	v	proceder	to come from
+stimmen	v	ser correcto; votar	to be right; vote
+stoppen	v	parar	to stop
+stören	v	molestar	to disturb
+stoßen	v	empujar; toparse	to push; bump
+treiben	v	impulsar; practicar	to drive; do (sport)
+trösten	v	consolar	to comfort
+überlegen	v	pensar	to consider
+übernehmen	v	asumir	to take over
+überraschen	v	sorprender	to surprise
+überzeugen	v	convencer	to convince
+umfassen	v	abarcar	to comprise
+unterscheiden	v	distinguir	to distinguish
+unterschreiben	v	firmar	to sign
+untersuchen	v	examinar	to examine
+urteilen	v	juzgar	to judge
+verabschieden	v	despedir	to say goodbye
+verbringen	v	pasar (tiempo)	to spend (time)
+vereinbaren	v	acordar	to agree
+verfolgen	v	perseguir	to pursue
+verfügen	v	disponer	to have at one's disposal
+vermeiden	v	evitar	to avoid
+vermuten	v	suponer	to suppose
+veröffentlichen	v	publicar	to publish
+verraten	v	revelar; traicionar	to reveal; betray
+verschwinden	v	desaparecer	to disappear
+versprechen	v	prometer	to promise
+verteilen	v	repartir	to distribute
+vertreten	v	representar	to represent
+vertrauen	v	confiar	to trust
+verursachen	v	causar	to cause
+verzichten	v	renunciar	to do without
+vorkommen	v	ocurrir	to occur
+vorziehen	v	preferir	to prefer
+wagen	v	atreverse	to dare
+weisen	v	señalar	to point
+wenden	v	girar; dirigirse	to turn
+widersprechen	v	contradecir	to contradict
+wirken	v	tener efecto; parecer	to have an effect; seem
+zahlen	v	pagar	to pay
+zerstören	v	destruir	to destroy
+zugeben	v	admitir	to admit
+zulassen	v	permitir	to allow
+zustimmen	v	estar de acuerdo	to agree
+zwingen	v	obligar	to force
+die Anzahl	n	el número	number
+die Ausbildung	n	la formación	training
+der Ausdruck	n	la expresión	expression
+die Aussage	n	la declaración	statement
+die Bahn	n	el ferrocarril	railway
+der Bau	n	la construcción	construction
+der Bauer	n	el campesino	farmer
+der Bedarf	n	la necesidad	need
+der Beginn	n	el comienzo	beginning
+der Begriff	n	el concepto	concept
+der Bereich	n	el ámbito	area, field
+der Besuch	n	la visita	visit
+die Bewegung	n	el movimiento	movement
+die Bildung	n	la educación	education
+der Dank	n	el agradecimiento	thanks
+die Diskussion	n	el debate	discussion
+der Druck	n	la presión	pressure
+der Eindruck	n	la impresión	impression
+die Einladung	n	la invitación	invitation
+die Einstellung	n	la actitud	attitude
+der Eintritt	n	la entrada	entry
+das Element	n	el elemento	element
+der Empfang	n	la recepción	reception
+das Ereignis	n	el acontecimiento	event
+die Ernährung	n	la alimentación	nutrition
+die Fähigkeit	n	la capacidad	ability
+das Fach	n	la asignatura	subject
+das Feld	n	el campo	field
+die Figur	n	la figura	figure
+die Flucht	n	la huida	escape
+der Flüchtling	n	el refugiado	refugee
+die Forderung	n	la exigencia	demand
+der Fortschritt	n	el progreso	progress
+die Freizeit	n	el tiempo libre	free time
+die Führung	n	el liderazgo; la visita guiada	leadership; guided tour
+die Funktion	n	la función	function
+der Gang	n	el pasillo; la marcha	corridor; gear
+das Gebäude	n	el edificio	building
+der Gegner	n	el adversario	opponent
+der Gegensatz	n	el contraste	contrast
+das Gelände	n	el terreno	grounds
+die Gelegenheit	n	la oportunidad	opportunity
+das Gerät	n	el aparato	device
+das Gewicht	n	el peso	weight
+der Glaube	n	la fe	faith
+das Gleichgewicht	n	el equilibrio	balance
+der Gott	n	Dios	god
+die Grundlage	n	la base	basis
+das Gut	n	el bien	good, asset
+der Hafen	n	el puerto	port
+die Haltung	n	la actitud; la postura	attitude; posture
+der Hintergrund	n	el fondo	background
+der Hinweis	n	la indicación	hint
+die Höhe	n	la altura	height
+der Inhalt	n	el contenido	content
+das Instrument	n	el instrumento	instrument
+der Kern	n	el núcleo	core
+die Klage	n	la queja; la demanda	complaint; lawsuit
+der Konflikt	n	el conflicto	conflict
+der König	n	el rey	king
+die Königin	n	la reina	queen
+die Kontrolle	n	el control	control
+die Krise	n	la crisis	crisis
+die Kritik	n	la crítica	criticism
+die Kurve	n	la curva	curve
+die Landschaft	n	el paisaje	landscape
+der Lauf	n	el curso; la carrera	course; run
+die Lehre	n	la enseñanza; el aprendizaje	teaching; apprenticeship
+das Mittel	n	el medio	means
+das Modell	n	el modelo	model
+die Mode	n	la moda	fashion
+der Mord	n	el asesinato	murder
+der Mut	n	el valor	courage
+die Not	n	la necesidad	need, hardship
+der Ort	n	el lugar	place
+das Opfer	n	la víctima	victim
+das Paar	n	la pareja	pair, couple
+das Personal	n	el personal	staff
+die Pflicht	n	la obligación	duty
+die Pflanze	n	la planta	plant
+die Position	n	la posición	position
+der Prozess	n	el proceso	process
+die Rede	n	el discurso	speech
+die Reform	n	la reforma	reform
+das Rennen	n	la carrera	race
+das Risiko	n	el riesgo	risk
+die Runde	n	la ronda	round
+die Schuld	n	la culpa; la deuda	guilt; debt
+der Schutz	n	la protección	protection
+die Schwierigkeit	n	la dificultad	difficulty
+die Sicht	n	la vista	view
+die Spur	n	la huella	trace
+der Stand	n	el estado; el puesto	state; stand
+der Standpunkt	n	el punto de vista	standpoint
+die Stärke	n	la fuerza	strength
+der Stoff	n	la tela; la materia	fabric; material
+der Streit	n	la pelea	quarrel
+das Symbol	n	el símbolo	symbol
+die Szene	n	la escena	scene
+die Tat	n	el acto	deed
+die Tatsache	n	el hecho	fact
+die Technologie	n	la tecnología	technology
+der Teilnehmer	n	el participante	participant
+der Tod	n	la muerte	death
+der Ton	n	el tono; el sonido	tone; sound
+die Tradition	n	la tradición	tradition
+die Trennung	n	la separación	separation
+die Übersicht	n	el resumen	overview
+die Umgebung	n	el entorno	surroundings
+der Umgang	n	el trato	dealing, contact
+der Unterricht	n	la clase	lesson, teaching
+der Unterschied	n	la diferencia	difference
+die Unterstützung	n	el apoyo	support
+das Verfahren	n	el procedimiento	procedure
+das Verhalten	n	el comportamiento	behaviour
+das Verhältnis	n	la relación	relationship
+der Verlust	n	la pérdida	loss
+das Vertrauen	n	la confianza	trust
+die Verwaltung	n	la administración	administration
+die Voraussetzung	n	el requisito	prerequisite
+der Vorteil	n	la ventaja	advantage
+der Nachteil	n	la desventaja	disadvantage
+der Vortrag	n	la conferencia	lecture, talk
+der Vorwurf	n	el reproche	reproach
+das Wachstum	n	el crecimiento	growth
+die Weise	n	la manera	way, manner
+die Werkstatt	n	el taller	workshop
+das Werk	n	la obra; la fábrica	work; plant
+das Wesen	n	el ser; la esencia	being; nature
+der Widerstand	n	la resistencia	resistance
+die Wirklichkeit	n	la realidad	reality
+das Wissen	n	el conocimiento	knowledge
+der Witz	n	el chiste	joke
+der Zweck	n	el propósito	purpose
+der Zweifel	n	la duda	doubt
+der Zusammenhang	n	el contexto	connection, context
+die Zusammenarbeit	n	la cooperación	cooperation
+der Zugang	n	el acceso	access
+die Zustimmung	n	la aprobación	approval
+das Abitur	n	el bachillerato	school-leaving exam
+der Abschied	n	la despedida	farewell
+der Abschnitt	n	la sección	section
+die Achtung	n	la atención; el respeto	attention; respect
+die Aktion	n	la acción	action, campaign
+die Alternative	n	la alternativa	alternative
+der Alltag	n	la vida cotidiana	everyday life
+das Alter	n	la edad	age
+die Analyse	n	el análisis	analysis
+der Anlass	n	el motivo	occasion
+der Anspruch	n	la pretensión; el derecho	claim; entitlement
+der Anteil	n	la proporción	share
+der Anwalt	n	el abogado	lawyer
+die Anzeige	n	el anuncio; la denuncia	advert; complaint (police)
+der Apparat	n	el aparato	device
+die Atmosphäre	n	el ambiente	atmosphere
+der Aufbau	n	la estructura	structure
+der Aufenthalt	n	la estancia	stay
+der Auftrag	n	el encargo	order, assignment
+der Ausflug	n	la excursión	excursion
+die Auskunft	n	la información	information (desk)
+die Ausnahme	n	la excepción	exception
+das Aussehen	n	el aspecto	appearance
+die Auswahl	n	la selección	selection
+der Automat	n	la máquina expendedora	machine
+die Bäckerei	n	la panadería	bakery
+das Bargeld	n	el efectivo	cash
+der Bart	n	la barba	beard
+die Batterie	n	la batería	battery
+der Beamte	n	el funcionario	civil servant
+die Beratung	n	el asesoramiento	advice
+die Bescheinigung	n	el certificado	certificate
+der Besitzer	n	el propietario	owner
+das Besteck	n	los cubiertos	cutlery
+der Betrag	n	el importe	amount
+das Bewusstsein	n	la conciencia	consciousness
+die Bewerbung	n	la solicitud (empleo)	application
+die Birne	n	la pera; la bombilla	pear; bulb
+das Blatt	n	la hoja	leaf; sheet
+die Bluse	n	la blusa	blouse
+die Bohne	n	la judía	bean
+die Brille	n	las gafas	glasses
+das Brötchen	n	el panecillo	bread roll
+die Burg	n	el castillo	castle
+die Butter	n	la mantequilla	butter
+die Chance	n	la oportunidad	chance
+der Charakter	n	el carácter	character
+die Dame	n	la señora	lady
+die Dauer	n	la duración	duration
+das Denkmal	n	el monumento	monument
+der Dialog	n	el diálogo	dialogue
+der Dienst	n	el servicio	service
+die Dose	n	la lata	can, tin
+der Dreck	n	la suciedad	dirt
+der Duft	n	el aroma	scent
+der Durchschnitt	n	la media	average
+der Ehemann	n	el marido	husband
+die Ehefrau	n	la esposa	wife
+das Eigentum	n	la propiedad	property
+die Einheit	n	la unidad	unit, unity
+das Einkommen	n	los ingresos	income
+der Einkauf	n	la compra	purchase
+die Einrichtung	n	la instalación; el mobiliario	institution; furnishings
+der Einwohner	n	el habitante	inhabitant
+die Einzelheit	n	el detalle	detail
+die Eisenbahn	n	el ferrocarril	railway
+der Empfänger	n	el destinatario	recipient
+die Ente	n	el pato	duck
+die Erbse	n	el guisante	pea
+die Erdbeere	n	la fresa	strawberry
+das Erdgeschoss	n	la planta baja	ground floor
+das Erlebnis	n	la vivencia	experience
+die Erlaubnis	n	el permiso	permission
+der Erwachsene	n	el adulto	adult
+der Export	n	la exportación	export
+die Fabrik	n	la fábrica	factory
+der Faden	n	el hilo	thread
+die Fahne	n	la bandera	flag
+der Fahrplan	n	el horario	timetable
+der Fahrstuhl	n	el ascensor	lift
+das Fieber	n	la fiebre	fever
+das Feuerzeug	n	el mechero	lighter
+der Feiertag	n	el festivo	public holiday
+der Fleck	n	la mancha	stain
+die Frucht	n	el fruto	fruit
+der Führerschein	n	el carné de conducir	driving licence
+die Gebühr	n	la tasa	fee
+die Geburt	n	el nacimiento	birth
+die Geduld	n	la paciencia	patience
+die Gemeinschaft	n	la comunidad	community
+das Gemälde	n	el cuadro	painting
+das Geräusch	n	el ruido	sound, noise
+das Geschirr	n	la vajilla	dishes
+die Geschwindigkeit	n	la velocidad	speed
+die Geschwister	n	los hermanos	siblings
+das Getreide	n	el cereal	grain
+die Gewohnheit	n	la costumbre	habit
+das Gewürz	n	la especia	spice
+das Gift	n	el veneno	poison
+die Gitarre	n	la guitarra	guitar
+die Grippe	n	la gripe	flu
+das Gras	n	la hierba	grass
+der Gruß	n	el saludo	greeting
+die Gurke	n	el pepino	cucumber
+der Gürtel	n	el cinturón	belt
+das Hähnchen	n	el pollo	chicken
+die Halle	n	la sala, el pabellón	hall
+der Handschuh	n	el guante	glove
+der Haushalt	n	el hogar; el presupuesto	household; budget
+das Heft	n	el cuaderno	notebook
+der Held	n	el héroe	hero
+der Hersteller	n	el fabricante	manufacturer
+die Hitze	n	el calor	heat
+das Hobby	n	el pasatiempo	hobby
+der Honig	n	la miel	honey
+der Hut	n	el sombrero	hat
+der Husten	n	la tos	cough
+der Import	n	la importación	import
+der Ingenieur	n	el ingeniero	engineer
+der Inhaber	n	el titular, el dueño	owner
+der Journalist	n	el periodista	journalist
+die Jugend	n	la juventud	youth
+der Jugendliche	n	el joven	young person
+der Kalender	n	el calendario	calendar
+die Kantine	n	el comedor	canteen
+die Kerze	n	la vela	candle
+das Kissen	n	la almohada	pillow
+die Kiste	n	la caja	box, crate
+die Klimaanlage	n	el aire acondicionado	air conditioning
+die Klingel	n	el timbre	bell
+das Knie	n	la rodilla	knee
+der Knopf	n	el botón	button
+der Koch	n	el cocinero	cook
+die Kollegin	n	la colega	colleague (f.)
+der Kommentar	n	el comentario	comment
+die Kommunikation	n	la comunicación	communication
+der Kompromiss	n	el compromiso	compromise
+die Konferenz	n	la conferencia	conference
+die Konkurrenz	n	la competencia	competition
+der Kopfschmerz	n	el dolor de cabeza	headache
+der Korb	n	la cesta	basket
+die Kosmetik	n	la cosmética	cosmetics
+das Kostüm	n	el disfraz; el traje	costume; suit
+der Kranke	n	el enfermo	sick person
+die Krankenkasse	n	el seguro médico	health insurance
+der Kredit	n	el crédito	loan
+die Kreditkarte	n	la tarjeta de crédito	credit card
+die Kuh	n	la vaca	cow
+der Kuss	n	el beso	kiss
+die Küste	n	la costa	coast
+das Labor	n	el laboratorio	laboratory
+die Lebensmittel	n	los alimentos	groceries
+der Lebenslauf	n	el currículum	CV
+der Lehrling	n	el aprendiz	apprentice
+das Lieblingsessen	n	la comida favorita	favourite food
+der Löwe	n	el león	lion
+die Lücke	n	el hueco	gap
+die Mahlzeit	n	la comida	meal
+der Mangel	n	la falta	lack
+die Marke	n	la marca	brand
+die Maschine	n	la máquina	machine
+die Maßnahme	n	la medida	measure
+die Mauer	n	el muro	wall
+das Mehl	n	la harina	flour
+die Mehrheit	n	la mayoría	majority
+die Minderheit	n	la minoría	minority
+die Mischung	n	la mezcla	mixture
+das Mitleid	n	la compasión	pity
+der Mittag	n	el mediodía	midday
+die Mitteilung	n	el comunicado	notice
+das Möbel	n	el mueble	furniture
+die Möhre	n	la zanahoria	carrot
+der Mond	n	la luna	moon
+der Motor	n	el motor	engine
+das Motorrad	n	la moto	motorbike
+die Mücke	n	el mosquito	mosquito
+der Müll	n	la basura	rubbish
+die Mütze	n	el gorro	cap, hat
+die Nachbarschaft	n	el vecindario	neighbourhood
+der Nachmittag	n	la tarde	afternoon
+der Vormittag	n	la mañana	morning (before noon)
+der Nachname	n	el apellido	surname
+der Vorname	n	el nombre de pila	first name
+die Nadel	n	la aguja	needle
+der Nebel	n	la niebla	fog
+der Neffe	n	el sobrino	nephew
+die Nichte	n	la sobrina	niece
+der Notarzt	n	el médico de urgencias	emergency doctor
+die Nudel	n	la pasta, el fideo	noodle
+die Oma	n	la abuela	grandma
+der Opa	n	el abuelo	grandpa
+das Öl	n	el aceite	oil
+die Orange	n	la naranja	orange
+der Osten	n	el este	east
+der Westen	n	el oeste	west
+der Norden	n	el norte	north
+der Süden	n	el sur	south
+Ostern	n	Pascua	Easter
+Weihnachten	n	Navidad	Christmas
+die Panne	n	la avería	breakdown
+der Parkplatz	n	el aparcamiento	parking space
+die Pension	n	la pensión	guesthouse; pension
+die Pfanne	n	la sartén	pan
+der Pfeffer	n	la pimienta	pepper
+das Pflaster	n	la tirita; el adoquinado	plaster; paving
+die Pizza	n	la pizza	pizza
+der Pilz	n	la seta	mushroom
+die Portion	n	la ración	portion
+der Prospekt	n	el folleto	brochure
+der Pullover	n	el jersey	jumper
+der Quatsch	n	la tontería	nonsense
+der Rasen	n	el césped	lawn
+der Rand	n	el borde	edge
+der Raucher	n	el fumador	smoker
+die Reinigung	n	la tintorería; la limpieza	dry cleaner's; cleaning
+der Reis	n	el arroz	rice
+die Reparatur	n	la reparación	repair
+die Rezeption	n	la recepción	reception
+das Rezept	n	la receta	recipe; prescription
+das Rind	n	la vaca	cattle
+der Rock	n	la falda	skirt
+die Rose	n	la rosa	rose
+die Sahne	n	la nata	cream
+der Salat	n	la ensalada; la lechuga	salad; lettuce
+die Salbe	n	la pomada	ointment
+der Sand	n	la arena	sand
+der Schal	n	la bufanda	scarf
+die Scheibe	n	la rebanada; el cristal	slice; pane
+der Schein	n	el billete; la apariencia	note (money); appearance
+die Schere	n	las tijeras	scissors
+der Schinken	n	el jamón	ham
+das Schild	n	el cartel	sign
+der Schirm	n	el paraguas	umbrella
+der Schlaf	n	el sueño	sleep
+das Schloss	n	el castillo; la cerradura	castle; lock
+der Schluss	n	el final	end
+der Schmuck	n	las joyas	jewellery
+der Schnupfen	n	el resfriado	cold (nose)
+die Schokolade	n	el chocolate	chocolate
+der Schreibtisch	n	el escritorio	desk
+die Schrift	n	la escritura	writing, script
+die Schulter	n	el hombro	shoulder
+das Schwein	n	el cerdo	pig
+die Seife	n	el jabón	soap
+der Senior	n	el mayor	senior
+der Sessel	n	el sillón	armchair
+die Socke	n	el calcetín	sock
+die Soße	n	la salsa	sauce
+der Spargel	n	el espárrago	asparagus
+der Spaziergang	n	el paseo	walk
+die Speisekarte	n	la carta, el menú	menu
+die Spülmaschine	n	el lavavajillas	dishwasher
+das Stadion	n	el estadio	stadium
+der Stadtplan	n	el plano	city map
+der Stern	n	la estrella	star
+das Stockwerk	n	la planta	floor, storey
+der Strumpf	n	la media	stocking
+die Suppe	n	la sopa	soup
+die Süßigkeit	n	el dulce	sweet
+die Tablette	n	la pastilla	tablet
+die Tafel	n	la pizarra; la tableta	board; bar
+die Tankstelle	n	la gasolinera	petrol station
+das Taschentuch	n	el pañuelo	handkerchief
+die Taste	n	la tecla	key (button)
+der Teppich	n	la alfombra	carpet
+die Tomate	n	el tomate	tomato
+der Topf	n	la olla	pot
+die Torte	n	la tarta	gateau
+die Tüte	n	la bolsa	bag
+das Tuch	n	el paño	cloth
+die Uhrzeit	n	la hora	time (of day)
+der Umschlag	n	el sobre	envelope
+die Unterhaltung	n	la conversación; el entretenimiento	conversation; entertainment
+die Unterkunft	n	el alojamiento	accommodation
+die Unterschrift	n	la firma	signature
+die Verabredung	n	la cita	date, appointment
+der Verkäufer	n	el vendedor	salesperson
+die Verspätung	n	el retraso	delay
+die Verwandten	n	los parientes	relatives
+die Vorsicht	n	la precaución	caution
+die Vorspeise	n	el entrante	starter
+die Wäsche	n	la colada	laundry
+die Waschmaschine	n	la lavadora	washing machine
+der Wecker	n	el despertador	alarm clock
+das Weihnachtsfest	n	la Navidad	Christmas
+die Wiese	n	el prado	meadow
+die Wolle	n	la lana	wool
+die Zahnbürste	n	el cepillo de dientes	toothbrush
+der Zahnarzt	n	el dentista	dentist
+der Zettel	n	la nota, el papelito	note, slip
+das Zelt	n	la tienda de campaña	tent
+die Zigarette	n	el cigarrillo	cigarette
+der Zoll	n	la aduana	customs
+die Zitrone	n	el limón	lemon
+die Zwiebel	n	la cebolla	onion
+der Zufall	n	la casualidad	coincidence
+zufällig	adj	casual	by chance
+abhängig	adj	dependiente	dependent
+aktiv	adj	activo	active
+angenehm	adj	agradable	pleasant
+ängstlich	adj	miedoso	anxious
+arbeitslos	adj	en paro	unemployed
+attraktiv	adj	atractivo	attractive
+aufmerksam	adj	atento	attentive
+aufgeregt	adj	nervioso, emocionado	excited
+ausgezeichnet	adj	excelente	excellent
+ausreichend	adj	suficiente	sufficient
+bequem	adj	cómodo	comfortable
+besetzt	adj	ocupado	occupied
+bitter	adj	amargo	bitter
+blind	adj	ciego	blind
+blond	adj	rubio	blond
+dankbar	adj	agradecido	grateful
+dringend	adj	urgente	urgent
+eilig	adj	urgente, con prisa	hurried
+einsam	adj	solitario	lonely
+elegant	adj	elegante	elegant
+elektrisch	adj	eléctrico	electric
+erfolgreich	adj	exitoso	successful
+ernst	adj	serio	serious
+erwachsen	adj	adulto	grown-up
+fair	adj	justo	fair
+fantastisch	adj	fantástico	fantastic
+fest	adj	firme, fijo	firm, fixed
+fett	adj	graso	fat, fatty
+feucht	adj	húmedo	damp
+fein	adj	fino	fine
+fit	adj	en forma	fit
+frisch	adj	fresco	fresh
+fröhlich	adj	alegre	cheerful
+geduldig	adj	paciente	patient
+gefährlich	adj	peligroso	dangerous
+geheim	adj	secreto	secret
+gemütlich	adj	acogedor	cosy
+gerecht	adj	justo	just, fair
+gering	adj	escaso	low, slight
+getrennt	adj	separado	separate
+gewöhnlich	adj	habitual	usual
+giftig	adj	venenoso	poisonous
+glatt	adj	liso; resbaladizo	smooth; slippery
+günstig	adj	barato; favorable	cheap; favourable
+hart	adj	duro	hard
+hässlich	adj	feo	ugly
+hübsch	adj	guapo, bonito	pretty
+intelligent	adj	inteligente	intelligent
+kompliziert	adj	complicado	complicated
+körperlich	adj	físico	physical
+kostenlos	adj	gratis	free (of charge)
+kräftig	adj	fuerte	strong
+kreativ	adj	creativo	creative
+künstlich	adj	artificial	artificial
+lebendig	adj	vivo	alive, lively
+ledig	adj	soltero	single
+lecker	adj	rico, sabroso	tasty
+locker	adj	suelto, relajado	loose, relaxed
+männlich	adj	masculino	male
+weiblich	adj	femenino	female
+mild	adj	suave	mild
+modisch	adj	a la moda	fashionable
+negativ	adj	negativo	negative
+positiv	adj	positivo	positive
+neugierig	adj	curioso	curious
+normal	adj	normal	normal
+ordentlich	adj	ordenado	tidy
+pünktlich	adj	puntual	punctual
+praktisch	adj	práctico	practical
+preiswert	adj	económico	good value
+raffiniert	adj	refinado	clever, refined
+reif	adj	maduro	ripe
+riesig	adj	enorme	huge
+roh	adj	crudo	raw
+salzig	adj	salado	salty
+sauer	adj	ácido; enfadado	sour; annoyed
+scharf	adj	picante; afilado	spicy; sharp
+schlank	adj	delgado	slim
+schmal	adj	estrecho	narrow
+schwach	adj	débil	weak
+selbstständig	adj	independiente; autónomo	independent; self-employed
+seltsam	adj	extraño	strange
+sorgfältig	adj	cuidadoso	careful
+sportlich	adj	deportivo	sporty
+spannend	adj	emocionante	exciting
+steil	adj	empinado	steep
+still	adj	callado	quiet, still
+süß	adj	dulce	sweet
+sympathisch	adj	simpático	likeable
+technisch	adj	técnico	technical
+typisch	adj	típico	typical
+unglaublich	adj	increíble	incredible
+verheiratet	adj	casado	married
+geschieden	adj	divorciado	divorced
+verantwortlich	adj	responsable	responsible
+vernünftig	adj	sensato	sensible
+verrückt	adj	loco	crazy
+verwandt	adj	emparentado	related
+vorsichtig	adj	prudente	careful
+wach	adj	despierto	awake
+weich	adj	blando	soft
+wild	adj	salvaje	wild
+witzig	adj	gracioso	witty
+achten	v	prestar atención	to pay attention
+ablehnen	v	rechazar	to reject
+abschließen	v	cerrar con llave; terminar	to lock; complete
+absagen	v	cancelar	to cancel
+anmelden	v	inscribir	to register
+abmelden	v	dar de baja	to deregister
+ausfüllen	v	rellenar	to fill in
+ausprobieren	v	probar	to try out
+ausruhen	v	descansar	to rest
+aussuchen	v	escoger	to choose
+ausdrücken	v	expresar	to express
+ausgehen	v	salir	to go out
+ausleihen	v	tomar prestado	to borrow
+auspacken	v	desempacar	to unpack
+einpacken	v	empaquetar	to pack
+begrüßen	v	saludar	to greet
+beantworten	v	contestar	to answer
+beachten	v	tener en cuenta	to observe
+bedanken	v	dar las gracias	to thank
+befinden	v	encontrarse	to be located
+begleiten	v	acompañar	to accompany
+beißen	v	morder	to bite
+beruhigen	v	calmar	to calm
+beschädigen	v	dañar	to damage
+betreten	v	entrar en	to enter
+bewerben	v	solicitar	to apply
+biegen	v	doblar	to bend, turn
+binden	v	atar	to tie
+blühen	v	florecer	to bloom
+braten	v	freír, asar	to fry, roast
+buchen	v	reservar	to book
+drucken	v	imprimir	to print
+duschen	v	ducharse	to shower
+eilen	v	apresurarse	to hurry
+einfallen	v	ocurrírsele	to occur to
+einziehen	v	mudarse (entrar)	to move in
+erholen	v	recuperarse	to recover
+erkälten	v	resfriarse	to catch a cold
+erledigen	v	resolver, despachar	to take care of
+fotografieren	v	fotografiar	to photograph
+frieren	v	tener frío; congelar	to freeze
+frühstücken	v	desayunar	to have breakfast
+füllen	v	llenar	to fill
+füttern	v	dar de comer	to feed
+garantieren	v	garantizar	to guarantee
+gießen	v	regar; verter	to water; pour
+grillen	v	hacer barbacoa	to barbecue
+grüßen	v	saludar	to greet
+hassen	v	odiar	to hate
+heizen	v	calentar	to heat
+husten	v	toser	to cough
+joggen	v	correr (deporte)	to jog
+klettern	v	escalar	to climb
+klopfen	v	llamar (a la puerta)	to knock
+kleben	v	pegar	to stick
+kopieren	v	copiar	to copy
+küssen	v	besar	to kiss
+lächeln	v	sonreír	to smile
+leeren	v	vaciar	to empty
+löschen	v	borrar; apagar	to delete; extinguish
+lügen	v	mentir	to lie
+mischen	v	mezclar	to mix
+packen	v	empaquetar	to pack
+parken	v	aparcar	to park
+pflücken	v	recoger (fruta)	to pick
+raten	v	adivinar; aconsejar	to guess; advise
+reiten	v	montar a caballo	to ride
+rennen	v	correr	to run
+sammeln	v	coleccionar	to collect
+schälen	v	pelar	to peel
+schütteln	v	agitar	to shake
+segeln	v	navegar a vela	to sail
